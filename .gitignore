@@ -1,0 +1,10 @@
+### Gitignore de intelliJ
+
+.idea
+
+*/.idea
+*/*/.mvn
+*/pom.xml
+*/src/test
+*/src/main/resources
+*/target
